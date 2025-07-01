@@ -1,0 +1,9 @@
+id: tempest
+name: "TempestExpansion"
+depends: []
+pluginDepends: []
+scriptListener: "script-listener"
+version: "1.0"
+description: "TempestExpansion"
+authors: ["Tempesticide"]
+repo: "Tempesticide/TempestExpansion"
